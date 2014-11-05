@@ -16,3 +16,6 @@
 [submodule "muricoca-crab"]
 	path = muricoca-crab
 	url = https://github.com/muricoca/crab.git
+[submodule "mendeley-mrec"]
+	path = mendeley-mrec
+	url = https://github.com/Mendeley/mrec.git
