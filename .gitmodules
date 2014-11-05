@@ -16,3 +16,6 @@
 [submodule "mendeley-mrec"]
 	path = mendeley-mrec
 	url = https://github.com/Mendeley/mrec.git
+[submodule "lenskit-lenskit"]
+	path = lenskit-lenskit
+	url = https://github.com/lenskit/lenskit.git
