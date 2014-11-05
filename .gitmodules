@@ -4,3 +4,6 @@
 [submodule "ocelma-python-recsys"]
 	path = ocelma-python-recsys
 	url = https://github.com/ocelma/python-recsys.git
+[submodule "zenogantner-MyMediaLite"]
+	path = zenogantner-MyMediaLite
+	url = https://github.com/zenogantner/MyMediaLite.git
