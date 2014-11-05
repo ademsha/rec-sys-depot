@@ -1,6 +1,3 @@
-[submodule "lenskit-lenskit"]
-	path = lenskit-lenskit
-	url = https://github.com/lenskit/lenskit.git
 [submodule "ocelma-python-recsys"]
 	path = ocelma-python-recsys
 	url = https://github.com/ocelma/python-recsys.git
