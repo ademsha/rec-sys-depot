@@ -1,4 +1,4 @@
-recsysdepot
+Rec Sys Depot
 ===========
 
-Various Recommender Systems Depot
+Recommender Systems Depot
