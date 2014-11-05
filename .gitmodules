@@ -7,3 +7,6 @@
 [submodule "zenogantner-MyMediaLite"]
 	path = zenogantner-MyMediaLite
 	url = https://github.com/zenogantner/MyMediaLite.git
+[submodule "guoguibing-librec"]
+	path = guoguibing-librec
+	url = https://github.com/guoguibing/librec.git
