@@ -10,3 +10,6 @@
 [submodule "guoguibing-librec"]
 	path = guoguibing-librec
 	url = https://github.com/guoguibing/librec.git
+[submodule "apache-mahout"]
+	path = apache-mahout
+	url = https://github.com/apache/mahout.git
