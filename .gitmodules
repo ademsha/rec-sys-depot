@@ -1,0 +1,3 @@
+[submodule "lenskit"]
+	path = lenskit
+	url = https://github.com/lenskit/lenskit.git
