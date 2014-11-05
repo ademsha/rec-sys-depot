@@ -13,3 +13,6 @@
 [submodule "apache-mahout"]
 	path = apache-mahout
 	url = https://github.com/apache/mahout.git
+[submodule "muricoca-crab"]
+	path = muricoca-crab
+	url = https://github.com/muricoca/crab.git
