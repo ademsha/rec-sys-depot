@@ -22,3 +22,6 @@
 [submodule "recommenders-rival"]
 	path = recommenders-rival
 	url = https://github.com/recommenders/rival.git
+[submodule "sarwat-recdb-postgresql"]
+	path = sarwat-recdb-postgresql
+	url = https://github.com/Sarwat/recdb-postgresql.git
