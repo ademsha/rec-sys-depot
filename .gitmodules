@@ -28,3 +28,6 @@
 [submodule "davidcelis-recommendable"]
 	path = davidcelis-recommendable
 	url = https://github.com/davidcelis/recommendable.git
+[submodule "apache-spark"]
+	path = apache-spark
+	url = https://github.com/apache/spark.git
