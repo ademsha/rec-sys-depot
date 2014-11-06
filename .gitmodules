@@ -25,3 +25,6 @@
 [submodule "sarwat-recdb-postgresql"]
 	path = sarwat-recdb-postgresql
 	url = https://github.com/Sarwat/recdb-postgresql.git
+[submodule "davidcelis-recommendable"]
+	path = davidcelis-recommendable
+	url = https://github.com/davidcelis/recommendable.git
