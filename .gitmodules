@@ -1,10 +1,7 @@
-[submodule "lenskit-lenskit"]
-	path = lenskit-lenskit
-	url = https://github.com/lenskit/lenskit.git
 [submodule "ocelma-python-recsys"]
 	path = ocelma-python-recsys
 	url = https://github.com/ocelma/python-recsys.git
-[submodule "zenogantner-MyMediaLite"]
+[submodule "zenogantner-mymedialite"]
 	path = zenogantner-MyMediaLite
 	url = https://github.com/zenogantner/MyMediaLite.git
 [submodule "guoguibing-librec"]
@@ -19,6 +16,9 @@
 [submodule "mendeley-mrec"]
 	path = mendeley-mrec
 	url = https://github.com/Mendeley/mrec.git
+[submodule "lenskit-lenskit"]
+	path = lenskit-lenskit
+	url = https://github.com/lenskit/lenskit.git
 [submodule "recommenders-rival"]
 	path = recommenders-rival
 	url = https://github.com/recommenders/rival.git
