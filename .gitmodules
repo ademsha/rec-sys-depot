@@ -19,3 +19,6 @@
 [submodule "lenskit-lenskit"]
 	path = lenskit-lenskit
 	url = https://github.com/lenskit/lenskit.git
+[submodule "recommenders-rival"]
+	path = recommenders-rival
+	url = https://github.com/recommenders/rival.git
