@@ -1,12 +1,15 @@
 [submodule "ocelma-python-recsys"]
 	path = ocelma-python-recsys
 	url = https://github.com/ocelma/python-recsys.git
+	branch = master
 [submodule "zenogantner-mymedialite"]
 	path = zenogantner-MyMediaLite
 	url = https://github.com/zenogantner/MyMediaLite.git
+	branch = master
 [submodule "guoguibing-librec"]
 	path = guoguibing-librec
 	url = https://github.com/guoguibing/librec.git
+	branch = master
 [submodule "apache-mahout"]
 	path = apache-mahout
 	url = https://github.com/apache/mahout.git
@@ -14,21 +17,28 @@
 [submodule "muricoca-crab"]
 	path = muricoca-crab
 	url = https://github.com/muricoca/crab.git
+	branch = master
 [submodule "mendeley-mrec"]
 	path = mendeley-mrec
 	url = https://github.com/Mendeley/mrec.git
+	branch = master
 [submodule "lenskit-lenskit"]
 	path = lenskit-lenskit
 	url = https://github.com/lenskit/lenskit.git
+	branch = master
 [submodule "recommenders-rival"]
 	path = recommenders-rival
 	url = https://github.com/recommenders/rival.git
+	branch = master
 [submodule "sarwat-recdb-postgresql"]
 	path = sarwat-recdb-postgresql
 	url = https://github.com/Sarwat/recdb-postgresql.git
+	branch = master
 [submodule "davidcelis-recommendable"]
 	path = davidcelis-recommendable
 	url = https://github.com/davidcelis/recommendable.git
+	branch = master
 [submodule "apache-spark"]
 	path = apache-spark
 	url = https://github.com/apache/spark.git
+	branch = master
