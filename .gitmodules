@@ -45,3 +45,6 @@
 [submodule "predictionio-predictionio"]
 	path = predictionio-predictionio
 	url = https://github.com/PredictionIO/PredictionIO.git
+[submodule "mortardata-mortar-recsys"]
+	path = mortardata-mortar-recsys
+	url = https://github.com/mortardata/mortar-recsys.git
