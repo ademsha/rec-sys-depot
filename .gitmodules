@@ -42,3 +42,6 @@
 	path = apache-spark
 	url = https://github.com/apache/spark.git
 	branch = master
+[submodule "predictionio-predictionio"]
+	path = predictionio-predictionio
+	url = https://github.com/PredictionIO/PredictionIO.git
