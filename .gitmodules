@@ -48,3 +48,6 @@
 [submodule "mortardata-mortar-recsys"]
 	path = mortardata-mortar-recsys
 	url = https://github.com/mortardata/mortar-recsys.git
+[submodule "cloudera-oryx"]
+	path = cloudera-oryx
+	url = https://github.com/cloudera/oryx.git
