@@ -54,3 +54,6 @@
 [submodule "easyrec-easyrec"]
 	path = easyrec-easyrec
 	url = http://git.code.sf.net/p/easyrec/code
+[submodule "myrrix-myrrix-recommender"]
+	path = myrrix-myrrix-recommender
+	url = https://github.com/myrrix/myrrix-recommender.git
