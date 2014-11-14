@@ -51,3 +51,6 @@
 [submodule "cloudera-oryx"]
 	path = cloudera-oryx
 	url = https://github.com/cloudera/oryx.git
+[submodule "easyrec-easyrec"]
+	path = easyrec-easyrec
+	url = http://git.code.sf.net/p/easyrec/code
